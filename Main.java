@@ -4,7 +4,7 @@ public class Main {
 	
 	
 	public static void sayHello(Gretter g){
-		System.out.printf("Hello, %s", g.getName());
+		System.out.printf("Adios, %s", g.getName());
 	}
 
 

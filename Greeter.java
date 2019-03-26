@@ -7,6 +7,10 @@ public interface Greeter {
 		this.name = name;
 	}
 	
+	public String getName(){
+		return this.name;
+	}
+	
 	/**
 	 * Student 1
 	 * Student 2

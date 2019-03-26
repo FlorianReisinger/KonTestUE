@@ -71,4 +71,8 @@ public interface Greeter {
 
 	void sayGoodbye();
 
+void senslessMethod(); {
+	System.out.println("Sensless");
+}
+
 }

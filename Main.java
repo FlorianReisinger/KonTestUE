@@ -6,6 +6,9 @@ public class Main {
 		
 		Greeter g = new GreeterImpl("Mike Ulm");
 
+		sayHello();
+		sayGoodBye();
+
 	}
 
 }
